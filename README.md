@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/FahadMridha/FahadMridha/blog/main/images/githubcover.png)
+![I am a Junior Front-end developer. ](https://github.com/FahadMridha/FahadMridha/blob/main/images/githubcover.png)
 
 ## :mailbox: Reach me out
 
@@ -14,9 +14,9 @@
 <!-- <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a> -->
 </div>
 
-### 🔭 I’m working -.
+### 🔭 I’m working -
 
-### 🌱 I’m exploring - Advance Redux for web .
+### 🌱 I’m exploring - Advance Redux for web development .
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
