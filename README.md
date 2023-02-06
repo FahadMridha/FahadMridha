@@ -4,7 +4,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-badsha-fahadh/)[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Facebook.png">](https://www.facebook.com/badsha.sohel/)[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Badsha_Fahadh)
+[<p align="center"> <img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-badsha-fahadh/)[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Facebook.png">](https://www.facebook.com/badsha.sohel/)[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Badsha_Fahadh)
 
 <br />
 
