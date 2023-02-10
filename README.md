@@ -4,8 +4,8 @@
 
 <br />
 
-[<p align="center"> <img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Facebook.png">](https://www.facebook.com/badsha.sohel/) [<img height="75"  src="https://github.com/fahadmridha/fahadmridha/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-badsha-fahadh/)
-[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/Badsha_Fahadh)
+<p align="center"> [<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Facebook.png">](https://www.facebook.com/badsha.sohel/) [<img height="75"  src="https://github.com/fahadmridha/fahadmridha/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-badsha-fahadh/)
+[<img height="75" src="https://github.com/FahadMridha/FahadMridha/blob/main/images/icons/Twitter.png">](https://twitter.com/Badsha_Fahadh) </p>
 
 <br />
 
@@ -44,6 +44,7 @@
 ## :book: My recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
 - [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
 - [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
